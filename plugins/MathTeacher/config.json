@@ -1,0 +1,10 @@
+{
+    "schema": 1,
+    "description": "Plugin para resolver problemas matemáticos",
+    "type": "completion",
+    "completion": {
+        "max_tokens": 200,
+        "temperature": 0.2,
+        "top_p": 0.5
+    }
+}

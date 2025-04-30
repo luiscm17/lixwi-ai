@@ -1,0 +1,5 @@
+Resuelve paso a paso la siguiente ecuación matemática en formato simbólico:
+
+{{$input}}
+
+Da una respuesta clara al final.
