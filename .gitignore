@@ -24,6 +24,7 @@ wheels/
 venv/
 env/
 ENV/
+ai-env/
 
 # Variables de entorno
 .env

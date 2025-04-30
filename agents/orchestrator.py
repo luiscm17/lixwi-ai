@@ -31,7 +31,7 @@ class LixwiAgentOrchestrator:
         )
 
     def _load_plugins(self):
-        plugins_dir = os.path.join(os.path.dirname(__file__), "plugins")
+        plugins_dir = os.path.join(os.path.dirname(__file__), "../plugins")
         plugin_instances = []
 
         for filename in os.listdir(plugins_dir):

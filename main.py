@@ -1,5 +1,5 @@
 import asyncio
-from orchestrator import LixwiAgentOrchestrator
+from agents.orchestrator import LixwiAgentOrchestrator
 from semantic_kernel.agents import ChatHistoryAgentThread
 
 async def main():
